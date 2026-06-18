@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+# Cooking Masterclass Catalogue 🍳
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+An interactive single-page web catalog showcasing exclusive, chef-hosted culinary masterclasses. Built with Vue.js 3 and Vite to deliver a fast, dynamic, and accessible responsive interface.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Key Features
+- **Dynamic Catalog Display:** Renders premium culinary workshops dynamically from an object data array using Vue's reactive core.
+- **Interactive Wishlist Engine:** Users can seamlessly toggle masterclasses in and out of their favorites list with real-time reactive counter updates.
+- **Visual Highlights:** Highlights specific featured masterclasses dynamically using conditional template class bindings.
+- **Fully Responsive Architecture:** Optimized layout grid structures adapting perfectly across desktop, tablet, and mobile displays.
+
+## 🛠️ Installation & Run Instructions
+
+Follow these steps to set up and run the project locally on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/nqenqaanela-beep/-cooking-masterclass-catalogue-.git](https://github.com/nqenqaanela-beep/-cooking-masterclass-catalogue-.git)
